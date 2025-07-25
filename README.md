@@ -2,6 +2,8 @@
 
 This project is a dynamic, schema-driven form built using **React**, **Redux Toolkit**, and **TypeScript**. The form is rendered based on a JSON schema fetched from an API, with built-in validation, conditional field rendering, and real-time feedback.
 
+This is a low-code React app to dynamically generate forms from a JSON schema.
+
 ---
 
 ## 🚀 Features
@@ -25,6 +27,9 @@ This project is a dynamic, schema-driven form built using **React**, **Redux Too
 - React Toastify
 
 ---
+
+## 📸 Screenshot
+<img src="./Icertis-Form-Assignment-Prasad-Tulshigiri.png" width="400" alt="Form Screenshot" />
 
 ## 🧪 How to Run Locally
 
