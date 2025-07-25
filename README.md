@@ -29,7 +29,6 @@ This project is a dynamic, schema-driven form built using **React**, **Redux Too
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/icertis-form-assignment.git
 cd icertis-form-assignment
 npm install
 npm run dev
