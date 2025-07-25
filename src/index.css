@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import '@fontsource/sen/400.css';
+:root {
+  --toastify-font-family: 'Sen', sans-serif;
+}
+body {
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+.sen-toast {
+  font-family: 'Sen', sans-serif;
+  font-size: 1rem;
+}
