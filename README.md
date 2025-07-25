@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dynamic Form Assignment – Icertis
 
 This project is a dynamic, schema-driven form built using **React**, **Redux Toolkit**, and **TypeScript**. The form is rendered based on a JSON schema fetched from an API, with built-in validation, conditional field rendering, and real-time feedback.
@@ -30,9 +29,7 @@ This project is a dynamic, schema-driven form built using **React**, **Redux Too
 ## 🧪 How to Run Locally
 
 ```bash
+git clone https://github.com/prasad2394/icertis-form-assignment
 cd icertis-form-assignment
 npm install
 npm run dev
-=======
-# icertis-form-assignment
->>>>>>> b8f9072e9819896f962ab47cce571271c850df4c
